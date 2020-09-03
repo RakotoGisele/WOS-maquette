@@ -1,0 +1,60 @@
+.menu_contenu {
+    position: absolute;
+    top: 50px;
+    left: 100px;
+}
+.cadre_menu {
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 160px;
+}
+.cadre_profil {
+    position: absolute;
+    margin-top: -10px;
+    margin-left: 1000px;
+}
+.bouton {
+    position: absolute;
+    top: 50px;
+    left: 100px;
+}
+.vue_globale {
+    position: absolute;
+    margin-left: 175px;
+    margin-top: 23px;
+}
+.ctr_ville {
+    position: absolute;
+    margin-left: 275px;
+    margin-top: 23px;
+}
+.carte {
+    position: absolute;
+    margin-left: 375px;
+    margin-top: 23px;
+}
+.classement {
+    position: absolute;
+    margin-left: 475px;
+    margin-top: 23px;
+}
+.aide {
+    position: absolute;
+    margin-left: 575px;
+    margin-top: 23px;
+}
+.amelioration {
+    position: absolute;
+    margin-left: 675px;
+    margin-top: 23px;
+}
+.boutique {
+    position: absolute;
+    margin-left: 780px;
+    margin-top: 23px;
+}
+.bonus {
+    position: absolute;
+    margin-left: 885px;
+    margin-top: 23px;
+}
